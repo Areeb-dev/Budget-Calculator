@@ -64,3 +64,44 @@
   color: black;
   font-size: large;
 }
+#invoicenumber{
+  display: flex;
+  justify-content: flex-end;
+}
+#CancelBtn{
+  padding-left: 10px;
+}
+#invioceid{
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+}
+#printericonbtn{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+}
+#printbtn{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#mylist{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: black;
+  font-size:xx-large large;
+}
+/* #changing{
+  color: red;
+} */
+table, th, td {
+  border:1px solid black;
+}
+#tableWidtth{
+  text-align: center;
+  width: 100%;
+}
